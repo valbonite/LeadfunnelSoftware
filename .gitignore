@@ -1,10 +1,17 @@
 instance/
+
 static/
+
 .webassets-cache
+
 *.pyc
+
 *.pyo
+
 *.sqlite3
+
 *.py~
+
 .idea
 venv
 
