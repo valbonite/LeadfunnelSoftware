@@ -1,9 +1,9 @@
 instance/
-static/
 .webassets-cache
 *.pyc
 *.pyo
 *.sqlite3
+*.sql
 *.py~
 .idea
 venv
