@@ -23,7 +23,7 @@ form {
     outline: 0;
 }
 
-.login-form input[type="submit"] {
+.login-form button[type="submit"] {
 	width: 100%;
     font-size: 14px;
     text-transform: uppercase;
