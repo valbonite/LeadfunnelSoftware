@@ -1,4 +1,5 @@
 instance/
+app/static/images
 *.jpg
 *.png
 .webassets-cache
