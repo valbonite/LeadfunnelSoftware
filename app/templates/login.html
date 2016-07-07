@@ -9,7 +9,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<form class="login-form form-horizontal" method="post" action="">
+					<form class="login-form form-horizontal" method="post" action="{{ url_for('login')}}">
+						{{ form.csrf_token }}
 						<div class="row">
 							<div class="col-md-4 col-md-offset-4">
 								<div class="form-group">
